@@ -1,9 +1,8 @@
 # Bonjour, je suis Florian E.L. !
 
 - Apprenti ingénieur en dernière année à l’ESTACA, spécialité Véhicules Systèmes Autonomes et Connectés  
-- Actuellement Data Steward en alternance — Projet de fin d’études sur la "détection et fusion d’objets issus de nuages de points multi-LiDARs"  
+- Actuellement Ingénieur Etude et developpement pour un système de navigation fluviale autonome
 - Code principalement en Python, un peu en C++  
-- Utilise régulièrement des tableurs pour l’organisation et le suivi de projets  
 - Intérêts annexes : écriture, dessin, photographie
 
 ---
