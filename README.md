@@ -24,5 +24,5 @@
 
 ## Me contacter
 
-- **LinkedIn** : [Profil]([https://www.linkedin.com/in/florian-eymer-leprovost/])
+- **LinkedIn** : https://www.linkedin.com/in/florian-eymer-leprovost
 - **Email** : florian.eymerleprovost@gmail.com
