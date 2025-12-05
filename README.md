@@ -1,6 +1,6 @@
 # Bonjour, je suis Florian E.L. !
 
-- Apprenti ingénieur en dernière année à l’ESTACA, spécialité Véhicules Systèmes Autonomes et Connectés  
+- Diplomé ingénieur de l’ESTACA 2025, spécialité Véhicules Systèmes Autonomes et Connectés  
 - Actuellement Ingénieur Etude et developpement pour un système de navigation fluviale autonome
 - Code principalement en Python, un peu en C++  
 - Intérêts annexes : écriture, dessin, photographie
