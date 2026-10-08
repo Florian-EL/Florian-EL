@@ -35,28 +35,28 @@ I primarily use Python, with additional experience in C++, SQL, and ROS 2.
 
 ---
 
-## Selected Projects
+## Projects
 
 ### Autonomous Inland Waterway Navigation
 Development of software components for autonomous navigation systems, with a focus on environmental perception, obstacle management, and navigation algorithms.
 
-### Multi-LiDAR Object Detection & Sensor Fusion
+### Personal Cultural Tracking Application
+Development of a personal application to catalog and track cultural activities and media, including books, series, films, and other content. Developed for [Destktop](https://github.com/Florian-EL/CulturApp) and for [Android](https://github.com/Florian-EL/CulturApp_Android).
+
+**Technologies:** Python, PyQt5, SQL, Kotlin.
+
+### Transport Tracking Application
+Development of a desktop application for organizing and tracking transport-related data. Developed for [Desktop](https://github.com/Florian-EL/TransportApp) only.
+
+**Technologies:** Python, PyQt5, pandas
+
+### Multi-LiDAR Object Detection & Sensor Fusion 
 Development of a multi-sensor perception pipeline combining camera-based object detection, object association, and LiDAR point cloud processing.
 
 - Object detection and annotation using YOLO.
 - Object matching across multiple LiDAR sensors.
 - Point cloud clustering using DBSCAN and HDBSCAN.
 - Multi-sensor data association for environmental perception.
-
-### Personal Cultural Tracking Application
-Development of a personal application to catalog and track cultural activities and media, including books, series, films, and other content.
-
-**Technologies:** Python, PyQt5, SQL, Kotlin.
-
-### Transport Tracking Application
-Development of a desktop application for organizing and tracking transport-related data.
-
-**Technologies:** Python, PyQt5, pandas
 
 ---
 
