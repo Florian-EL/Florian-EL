@@ -1,8 +1,8 @@
 # Hi, I'm Florian EYMER LEPROVOST
 
-**Software Engineer | Autonomous Systems | Robotics & Computer Vision**
+**Research and Development Engineer**
 
-I'm a software engineer graduated from ESTACA in 2025, specializing in Autonomous and Connected Vehicle Systems. I currently work on the development of autonomous inland waterway navigation systems, combining software engineering, robotics, sensor processing, and navigation algorithms.
+I'm an engineer graduated from ESTACA in 2025, specializing in Autonomous and Connected Vehicle Systems. I currently work on the development of autonomous inland waterway navigation systems, combining software engineering, robotics, sensor processing, and navigation algorithms.
 
 My work focuses on developing software for autonomous systems, from sensor integration and multi-sensor perception to obstacle avoidance and navigation. I'm particularly interested in the challenges of real-time processing, environmental awareness, and reliable autonomous decision-making.
 
